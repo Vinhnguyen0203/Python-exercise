@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="be8af8df-2ecb-4ea0-96a5-7b259c8f023e" name="Changes" comment="done homework">
+      <change beforePath="$PROJECT_DIR$/Draft/inclass.py" beforeDir="false" afterPath="$PROJECT_DIR$/Draft/inclass.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2UfQcpBBmtklR0V7xJeXq3uHqwB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/Fresher/Software 1/Procedural Programming&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Mappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Exercise 1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Procedural Programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Relational Database" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Relational Database/Exercise 1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Exercise 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Procedural Programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Relational Database" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Relational Database/Exercise 2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Exercise 5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Procedural Programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Function" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Function/Exercise 5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Procedural Programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test 1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Procedural Programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/First program" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/First program/test 1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Procedural Programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/First program" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/First program/test 2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Exercise 2" />
+        <item itemvalue="Python.Exercise 1" />
+        <item itemvalue="Python.test 2" />
+        <item itemvalue="Python.Exercise 5" />
+        <item itemvalue="Python.test 1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be8af8df-2ecb-4ea0-96a5-7b259c8f023e" name="Changes" comment="" />
+      <created>1693328236324</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693328236324</updated>
+      <workItem from="1693328242456" duration="15961000" />
+      <workItem from="1693347769857" duration="8000" />
+      <workItem from="1693380596846" duration="874000" />
+      <workItem from="1693389056822" duration="8284000" />
+      <workItem from="1693430058649" duration="1341000" />
+      <workItem from="1693551668696" duration="16735000" />
+      <workItem from="1693570768306" duration="3000" />
+      <workItem from="1693570849711" duration="4139000" />
+      <workItem from="1693642085541" duration="3022000" />
+      <workItem from="1693758778185" duration="3463000" />
+      <workItem from="1693814354293" duration="5150000" />
+      <workItem from="1693820568540" duration="2000" />
+      <workItem from="1693820579445" duration="2000" />
+      <workItem from="1693824254980" duration="6356000" />
+      <workItem from="1693890660774" duration="710000" />
+      <workItem from="1693910513451" duration="5896000" />
+      <workItem from="1693917691784" duration="10350000" />
+      <workItem from="1693999002199" duration="598000" />
+      <workItem from="1694013882786" duration="6424000" />
+      <workItem from="1694077088240" duration="3951000" />
+      <workItem from="1694155588676" duration="7148000" />
+      <workItem from="1694172443174" duration="7797000" />
+      <workItem from="1694369675430" duration="524000" />
+      <workItem from="1694375562781" duration="3630000" />
+      <workItem from="1694405370531" duration="8410000" />
+      <workItem from="1694428991003" duration="7269000" />
+      <workItem from="1694502700520" duration="595000" />
+      <workItem from="1694515337843" duration="5850000" />
+      <workItem from="1694539068881" duration="2000" />
+      <workItem from="1694549712455" duration="13334000" />
+      <workItem from="1694564542291" duration="1331000" />
+      <workItem from="1694595929069" duration="1089000" />
+      <workItem from="1694704028276" duration="14088000" />
+      <workItem from="1694759807621" duration="14173000" />
+      <workItem from="1694781101419" duration="1998000" />
+      <workItem from="1694797835277" duration="1300000" />
+      <workItem from="1694855280554" duration="7094000" />
+      <workItem from="1694941428979" duration="8934000" />
+      <workItem from="1694951550606" duration="1639000" />
+      <workItem from="1695034362583" duration="12008000" />
+      <workItem from="1695050108668" duration="3519000" />
+      <workItem from="1695118120840" duration="18477000" />
+      <workItem from="1695192784144" duration="6789000" />
+      <workItem from="1695226424908" duration="1260000" />
+      <workItem from="1695319091343" duration="7723000" />
+      <workItem from="1695362692453" duration="9977000" />
+      <workItem from="1695454708396" duration="1000" />
+      <workItem from="1695643255248" duration="7100000" />
+      <workItem from="1695900088694" duration="791000" />
+      <workItem from="1695973772716" duration="1405000" />
+      <workItem from="1696153646742" duration="16775000" />
+      <workItem from="1696229886418" duration="3509000" />
+      <workItem from="1696242282353" duration="1699000" />
+      <workItem from="1696254582065" duration="322000" />
+      <workItem from="1696322934621" duration="4000" />
+      <workItem from="1696328629128" duration="1015000" />
+      <workItem from="1696338186279" duration="929000" />
+      <workItem from="1696339133462" duration="38000" />
+      <workItem from="1696340837996" duration="41000" />
+      <workItem from="1696340880357" duration="132000" />
+      <workItem from="1696341103156" duration="1423000" />
+      <workItem from="1696344705314" duration="386000" />
+      <workItem from="1696347897085" duration="296000" />
+      <workItem from="1696490184052" duration="1292000" />
+      <workItem from="1696539242322" duration="595000" />
+      <workItem from="1696573603972" duration="129000" />
+      <workItem from="1696755344528" duration="17000" />
+      <workItem from="1696755569738" duration="14000" />
+      <workItem from="1696756079695" duration="17000" />
+      <workItem from="1696756303598" duration="33000" />
+      <workItem from="1696757115034" duration="10000" />
+      <workItem from="1696757696274" duration="7000" />
+      <workItem from="1696764835015" duration="23000" />
+      <workItem from="1696767158803" duration="7000" />
+      <workItem from="1696767606648" duration="37000" />
+      <workItem from="1696773992224" duration="14000" />
+      <workItem from="1696837891706" duration="1003000" />
+      <workItem from="1696838932530" duration="2473000" />
+      <workItem from="1696848266398" duration="2717000" />
+      <workItem from="1696861421357" duration="57000" />
+      <workItem from="1696861491770" duration="61000" />
+      <workItem from="1696861653790" duration="29000" />
+      <workItem from="1697324365358" duration="599000" />
+      <workItem from="1697397034029" duration="8000" />
+      <workItem from="1697399757904" duration="3138000" />
+      <workItem from="1697442426547" duration="1651000" />
+    </task>
+    <task id="LOCAL-00001" summary="module 1">
+      <option name="closed" value="true" />
+      <created>1693330194924</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693330194924</updated>
+    </task>
+    <task id="LOCAL-00002" summary="changbietnoigihon">
+      <option name="closed" value="true" />
+      <created>1693330501227</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1693330501228</updated>
+    </task>
+    <task id="LOCAL-00003" summary="done homework">
+      <option name="closed" value="true" />
+      <created>1693431880802</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1693431880802</updated>
+    </task>
+    <task id="LOCAL-00004" summary="done homework">
+      <option name="closed" value="true" />
+      <created>1693920011839</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1693920011839</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="module 1" />
+    <MESSAGE value="changbietnoigihon" />
+    <MESSAGE value="done homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="done homework" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Procedural_Programming$inclass.coverage" NAME="inclass Coverage Results" MODIFIED="1697443855415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Draft" />
+    <SUITE FILE_PATH="coverage/Procedural_Programming$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1694014135845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/While loop" />
+    <SUITE FILE_PATH="coverage/Procedural_Programming$test_1.coverage" NAME="test 1 Coverage Results" MODIFIED="1694518868780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First program" />
+    <SUITE FILE_PATH="coverage/Test_py$inclass.coverage" NAME="inclass Coverage Results" MODIFIED="1696328732449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Draft" />
+    <SUITE FILE_PATH="coverage/Procedural_Programming$Exercise_4__1_.coverage" NAME="Exercise 4 (1) Coverage Results" MODIFIED="1694434580015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/For" />
+    <SUITE FILE_PATH="coverage/Test_py$Vinh.coverage" NAME="Vinh Coverage Results" MODIFIED="1696338935309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Project/clean_world/.idea" />
+    <SUITE FILE_PATH="coverage/Procedural_Programming$Test.coverage" NAME="Test Coverage Results" MODIFIED="1693555420016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python exercise of module 1" />
+    <SUITE FILE_PATH="coverage/Procedural_Programming$test.coverage" NAME="test Coverage Results" MODIFIED="1694943285179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First program" />
+    <SUITE FILE_PATH="coverage/Procedural_Programming$Exercise_2.coverage" NAME="Exercise 2 Coverage Results" MODIFIED="1696243541048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Function" />
+    <SUITE FILE_PATH="coverage/Procedural_Programming$Exercise_1.coverage" NAME="Exercise 1 Coverage Results" MODIFIED="1697443240772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Function" />
+    <SUITE FILE_PATH="coverage/Procedural_Programming$Exercise_5.coverage" NAME="Exercise 5 Coverage Results" MODIFIED="1696243938435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Function" />
+    <SUITE FILE_PATH="coverage/Procedural_Programming$Exercise_3.coverage" NAME="Exercise 3 Coverage Results" MODIFIED="1696164310017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/For" />
+    <SUITE FILE_PATH="coverage/Procedural_Programming$Exercise_1__2_.coverage" NAME="Exercise 1 (2) Coverage Results" MODIFIED="1693331422509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python exercise module 2" />
+    <SUITE FILE_PATH="coverage/Procedural_Programming$Exercise_6.coverage" NAME="Exercise 6 Coverage Results" MODIFIED="1694941890956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Function" />
+    <SUITE FILE_PATH="coverage/Procedural_Programming$main.coverage" NAME="main Coverage Results" MODIFIED="1696848329876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Procedural_Programming$thu_nghiem.coverage" NAME="thu nghiem Coverage Results" MODIFIED="1693343438640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python exercise module 2" />
+    <SUITE FILE_PATH="coverage/Procedural_Programming$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1694405391475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First program" />
+    <SUITE FILE_PATH="coverage/Procedural_Programming$Exercise_3__1_.coverage" NAME="Exercise 3 (1) Coverage Results" MODIFIED="1694434204361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/For" />
+    <SUITE FILE_PATH="coverage/Procedural_Programming$test_2.coverage" NAME="test 2 Coverage Results" MODIFIED="1695044955553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First program" />
+    <SUITE FILE_PATH="coverage/Procedural_Programming$Exercise_2__1_.coverage" NAME="Exercise 2 (1) Coverage Results" MODIFIED="1693405740930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python exercise module 3" />
+    <SUITE FILE_PATH="coverage/Procedural_Programming$in_class_assignment.coverage" NAME="in class assignment Coverage Results" MODIFIED="1693568540806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python exercise of module 1" />
+    <SUITE FILE_PATH="coverage/Procedural_Programming$Exercise_4.coverage" NAME="Exercise 4 Coverage Results" MODIFIED="1696243831247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Function" />
+    <SUITE FILE_PATH="coverage/Procedural_Programming$Draft.coverage" NAME="Draft Coverage Results" MODIFIED="1695327258125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First program" />
+    <SUITE FILE_PATH="coverage/Procedural_Programming$Exercise_1__1_.coverage" NAME="Exercise 1 (1) Coverage Results" MODIFIED="1693347203245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python exercise of module 1" />
+  </component>
+</project>

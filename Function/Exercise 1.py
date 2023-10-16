@@ -1,12 +1,11 @@
 import random
-a=0
-user=int(input("type the number roll to dice"))
-def random_number():
-    number_random=random.randint(1,user)
-    return number_random
+def roll_dice():
+    roll_dice= random.randint(1,6)
+    return roll_dice
+roll_no=0
 while True:
-    a=a+1
-    result=random_number()
-    print(f"roll {a} is {result}")
-    if result==user:
+    variable= roll_dice()
+    print(f"Roll{roll_no}: {variable}")
+    roll_no = roll_no + 1
+    if variable==6:
         break
